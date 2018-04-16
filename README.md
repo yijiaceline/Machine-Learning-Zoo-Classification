@@ -19,6 +19,6 @@
   Random Forest model wins with a 1.0 f1 score.
  
 ## Authors
-  Xiaochi Ge, Yijia Chen, Yuhao Yang
+  Xiaochi Ge, Yijia Chen, Yupeng Yang
  
 
