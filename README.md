@@ -16,7 +16,7 @@
   Here used Decision tree, Random Forest, K-Nearest Neighbors, Support Vector Machine and Perceptron models.
   
 ## Result
-  Random Forest model wins with a 1.0 f1 score.
+  Random Forest model wins with a 1.0 accuracy score and 0.96 of cross validation.
  
 ## Authors
   Xiaochi Ge, Yijia Chen, Yupeng Yang
